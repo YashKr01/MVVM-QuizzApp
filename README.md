@@ -18,7 +18,7 @@ Uses Firebase Firestore, Firebase Auth, Firebase Storage, **Android** **JetPack*
 7. Uses Android Jetpack Navigation 
 
 
-## TOOLS
+# TOOLS
 
 ![Android Studio](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/512px-Android_Studio_icon.svg.png) 
 ![Firebase](https://miro.medium.com/max/1024/1*HaAps8GidfAKdee7OrjZ2w.png)
