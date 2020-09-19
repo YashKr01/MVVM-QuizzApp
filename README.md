@@ -4,13 +4,13 @@ App Name - **MVVM** **QuizzApp**
 
 A QuizzApp using **android** **architecture** components and following **MVVM** architecture.
 
-Uses Firebase Firestore, Firebase Auth, Firebase Storage, **Android** **JetPack** Navigetion.
+Uses Firebase Firestore, Firebase Auth, Firebase Storage, **Android** **JetPack** Navigation.
 
 
 # FEATURES
 
 1. User Authentication
-2 .Displays List of available Quiz
+2. Displays List of available Quiz
 3. Displays Previous Results
 4. Update UI after answering a question or when timer terminates
 5. Displays Results
