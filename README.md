@@ -34,37 +34,37 @@ Uses Firebase Firestore, Firebase Auth, Firebase Storage, **Android** **JetPack*
 # APPLICATION FLOW
 
 
-### First Screen is for Authentication using firebase anonymous authentication
+#### First Screen is for Authentication using firebase anonymous authentication
 
 
 ![](Images/login.jpg)
 
 
-### This Screen Displays all available quizzes
+#### This Screen Displays all available quizzes
 
 
 ![](Images/list.jpg)
 
 
-### This screen which displays the details of the selected quiz
+#### This screen which displays the details of the selected quiz
 
 
 ![](Images/details.jpg)
 
 
-### After starting quiz the user can select answer from given options within alloted time, if the user selects correct answer-
+#### After starting quiz the user can select answer from given options within alloted time, if the user selects correct answer-
 
 
 ![](Images/correct_ans.jpg)
 
 
-### if the user selects wrong answer-
+#### if the user selects wrong answer-
 
 
 ![](Images/wrong_ans.jpg)
 
 
-### After User answers all questions the results are displyed
+#### After User answers all questions the results are displyed
 
 
 ![](Images/results.jpg)
