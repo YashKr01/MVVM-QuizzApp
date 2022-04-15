@@ -17,12 +17,6 @@ Uses Firebase Firestore, Firebase Auth, Firebase Storage, **Android** **JetPack*
 6. Uses Animations for Fragment Transitions
 7. Uses Android Jetpack Navigation 
 
-
-# TOOLS
-
-![Android Studio](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/512px-Android_Studio_icon.svg.png) 
-![Firebase](https://miro.medium.com/max/1024/1*HaAps8GidfAKdee7OrjZ2w.png)
-
 # GETTING STARTED
 
 1. Clone the Project
@@ -34,41 +28,13 @@ Uses Firebase Firestore, Firebase Auth, Firebase Storage, **Android** **JetPack*
 # APPLICATION FLOW
 
 
-#### First Screen is for Authentication using firebase anonymous authentication
-
-
-![](Images/login.jpg)
-
-
-#### This Screen Displays all available quizzes
-
-
-![](Images/list.jpg)
-
-
-#### This screen which displays the details of the selected quiz
-
-
-![](Images/details.jpg)
-
-
-#### After starting quiz the user can select answer from given options within alloted time, if the user selects correct answer-
-
-
-![](Images/correct_ans.jpg)
-
-
-#### if the user selects wrong answer-
-
-
-![](Images/wrong_ans.jpg)
-
-
-#### After User answers all questions the results are displyed
-
-
-![](Images/results.jpg)
-
+ | LOGIN | QUIZZ LIST | QUIZ DETAILS |
+ --------------|------------|-------------|
+ | ![](Images/login.jpg) | ![](Images/list.jpg)  | ![](Images/details.jpg) 
+ 
+ | CORRECT ANS | WRONG ANSWERS | RESULTS |
+ -------------|-------------|-------------|
+ | ![](Images/correct_ans.jpg) | ![](Images/wrong_ans.jpg) | ![](Images/results.jpg)
 
 # WHAT DID I LEARNED ?
 
